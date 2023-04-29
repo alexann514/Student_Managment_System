@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Student_Manegment_System",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Student_Manegment_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Student_Manegment_System-Debug-346bf4cb7b4af3277c87.json",
+					"name" : "Student_Manegment_System",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alexa/OneDrive - Florida Gulf Coast University/Documents/23 Spring/COP 2006/TESTING/Student Manegment System/Student Manegment System/cmake-build-debug",
+		"source" : "C:/Users/alexa/OneDrive - Florida Gulf Coast University/Documents/23 Spring/COP 2006/TESTING/Student Manegment System/Student Manegment System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

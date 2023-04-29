@@ -1,0 +1,3 @@
+C:/Users/alexa/OneDrive - Florida Gulf Coast University/Documents/23 Spring/COP 2006/TESTING/Student Manegment System/Student Manegment System/cmake-build-debug/CMakeFiles/Student_Manegment_System.dir
+C:/Users/alexa/OneDrive - Florida Gulf Coast University/Documents/23 Spring/COP 2006/TESTING/Student Manegment System/Student Manegment System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexa/OneDrive - Florida Gulf Coast University/Documents/23 Spring/COP 2006/TESTING/Student Manegment System/Student Manegment System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
