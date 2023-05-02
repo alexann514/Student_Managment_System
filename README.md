@@ -1,4 +1,4 @@
-# Student_Management_System
+# Student Management System
 My teammate and I created a project for our Programming 1 class. We built a Student Management system program to help students calculate 
 their GPA and to show their degree progress.
 
@@ -42,7 +42,7 @@ The "update_degree_progress" function is pretty loaded. It has a couple varibles
 ![udp 3](https://user-images.githubusercontent.com/117114402/235685464-b5246971-d623-4221-8844-f2f2cb44b73b.png)
 ![udp 4](https://user-images.githubusercontent.com/117114402/235685482-6c1c4760-d72f-4d46-b64b-b80faab6977c.png)
 
-The "cumulative_gpa_calculator" function is a simple math function that does the calculations for the users cumultative GPA.
+The "cumulative_gpa_calculator" function is a simple math function that does the calculations for the users cumultative GPA. It uses a for loop to get how many semesters are needed and then another for loop to get how many classes they need for each semester. It then sorts the grade into a grade point system using an if statment.
 
 ![cgpac 1](https://user-images.githubusercontent.com/117114402/235686281-289fc4eb-4de4-4769-a3fa-11d26ccb32c7.png)
 ![cgpac 2](https://user-images.githubusercontent.com/117114402/235686376-a6c68da8-e7da-4397-913b-85e3e20f2b8c.png)
